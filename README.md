@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a .NET Developer born in AR.
+
+Here you can see my projects!
+
+If you want to know more about me, you can check my website.

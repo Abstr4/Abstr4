@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I'm a .NET Developer born in AR.
 
-Here you can check my projects!
 
-If you want to know more about me, you can visit my website.

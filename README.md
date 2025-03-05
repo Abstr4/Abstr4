@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a .NET Developer born in AR.
+I'm a C# .NET Developer. 
+
+Also building Discord Bots as a hobby.
 
 

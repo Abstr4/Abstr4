@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a C# .NET Developer. 
 
-Also building Discord Bots as a hobby.
+I build Discord Bots as a hobby.
 
 

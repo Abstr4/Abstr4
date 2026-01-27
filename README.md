@@ -1,22 +1,20 @@
-# Hi I'm Matias Margaritini 👋
+# Hi, I'm Matias Margaritini 👋
 
-<!--
-**Abstr4/Abstr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **.NET / C# developer** focused on building **clean, maintainable backend and full-stack applications**.
 
-Here are some ideas to get you started:
+I currently design, develop, and maintain a **store management system used in production** for a real business, built with **Blazor, .NET, and a Clean Architecture approach**, replacing manual processes with a modern digital solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about:
+- business logic and system behavior
+- practical problem-solving
+- tinkering, refactoring, and improving flows
+- crafting coherent systems
 
-I'm a C# .NET Developer. 
+Occasionally, I build **Discord bots** as side projects to experiment with ideas and tools.
 
-I build Discord Bots as a hobby.
+---
 
-
+## Tech I use
+- C#, .NET, ASP.NET Core, Blazor, Radzen
+- SQL Server, EF Core
+- Clean Architecture

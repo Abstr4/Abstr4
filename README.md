@@ -1,6 +1,6 @@
 # Hi, I'm Matias Margaritini 👋
 
-I'm a **.NET / C# developer** focused on building **clean, maintainable backend and full-stack applications**.
+I'm a **.NET / C# developer** focused on building **clean, maintainable backend and full-stack applications**, while continuously learning and exploring new tools and practices within the .NET ecosystem.
 
 I currently design, develop, and maintain a **store management system used in production** for a real business, built with **Blazor, .NET, and a Clean Architecture approach**, replacing manual processes with a modern digital solution.
 

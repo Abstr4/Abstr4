@@ -8,12 +8,6 @@ This management system is a full update and architectural upgrade of a previous 
 
 [Link to repository](https://github.com/Abstr4/TodoSeUsa.App) 
 
-I care about:
-- business logic and system behavior
-- practical problem-solving
-- tinkering, refactoring, and improving flows
-- crafting coherent systems
-
 Occasionally, I build **Discord bots** as side projects to experiment with ideas and tools.
 
 ---

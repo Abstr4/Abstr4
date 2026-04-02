@@ -1,18 +1,41 @@
-# Hi, I'm Matias Margaritini 👋
+# Matias Margaritini
 
-I'm a **.NET / C# developer** focused on building **clean, maintainable backend and full-stack applications**, while continuously learning and exploring new tools and practices within the .NET ecosystem.
+> Full Stack .NET Developer · Córdoba, Argentina
 
-I currently design, develop, and maintain a **store management system** for our family clothing store, built with **Blazor, .NET 9, and a Clean Architecture approach**, replacing manual processes with a modern digital solution.
+Building robust, production-ready applications with Clean Architecture and modern .NET technologies. Currently focused on AI-assisted development workflows and spec-driven methodologies.
 
-This management system is a full update and architectural upgrade of a previous version made with ASP .NET Core MVC that is now deprecated.
+## Tech Stack
 
-[Link to repository](https://github.com/Abstr4/TodoSeUsa.App) 
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | .NET, C#, Blazor Server, ASP.NET Core MVC, REST APIs |
+| **Databases** | SQL Server, MySQL, SQLite, Entity Framework Core |
+| **Architecture** | Clean Architecture, SOLID, Repository Pattern, Dependency Injection |
+| **DevOps** | CI/CD, GitHub Actions, Docker |
+| **Testing** | XUnit, Moq |
+| **Tools** | SCRUM, Jira, Trello, DBeaver |
+| **AI/Modern** | AI-Assisted Development, Spec-Driven Development, Cursor, OpenCode |
 
-I build **Discord bots** as side projects to experiment with ideas and tools.
+## Featured Projects
 
----
+### TodoSeUsa
+A retail inventory management system that replaced a manual spreadsheet workflow. Built with .NET, Blazor Server, and SQL Server following Clean Architecture principles. Handles product management, sales tracking, and reporting for a retail clothing business.
 
-## Tech I use
-- C#, .NET, ASP.NET Core, Blazor, Radzen
-- SQL Server, EF Core
-- Clean Architecture
+### Discord Bot Suite
+Modular automation platform for gaming and crypto communities. Features include real-time boss tracking, land management, automated notifications, and multi-network price trackers. Built with Node.js, Discord.js, and MySQL, deployed on Railway.
+
+### Personal Portfolio
+This portfolio site, built with vanilla HTML/CSS and deployed as a static site. Developed using AI-assisted workflows with Cursor and OpenCode for rapid prototyping.
+
+## Approach
+
+- **Full-Stack Ownership**: Taking features from database design through UI implementation
+- **Spec-Driven Development**: Using AI tools with clear specifications for faster, higher-quality delivery
+- **Maintainable Code**: Following SOLID principles and established patterns for long-term sustainability
+- **Quality First**: Unit testing, CI/CD pipelines, and early issue detection before production
+
+## Connect
+
+- **Email**: [matiasmargaritini@gmail.com](mailto:matiasmargaritini@gmail.com)
+- **LinkedIn**: [linkedin.com/in/matiasmargaritini](https://linkedin.com/in/matiasmargaritini)
+- **Portfolio**: [matiasmargaritini.dev](https://matiasmargaritini.dev)

@@ -17,7 +17,7 @@
 
 </div>
 
-Building robust, production-ready applications with Clean Architecture and modern .NET technologies. Currently focused on AI-assisted development workflows and spec-driven methodologies.
+Building robust, production-ready applications with modern .NET technologies. Currently focused on AI-assisted development workflows and spec-driven methodologies.
 
 
 ## Tech Stack

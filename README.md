@@ -25,7 +25,7 @@ A retail inventory management system that replaced a manual spreadsheet workflow
 Modular automation platform for gaming and crypto communities. Features include real-time boss tracking, land management, automated notifications, and multi-network price trackers. Built with Node.js, Discord.js, and MySQL, deployed on Railway.
 
 ### Personal Portfolio
-This portfolio site, built with vanilla HTML/CSS and deployed as a static site. Developed using AI-assisted workflows with Cursor and OpenCode for rapid prototyping.
+Built with vanilla HTML/CSS and deployed as a static site. Developed using AI-assisted workflows with Cursor and OpenCode for rapid prototyping.
 
 ## Approach
 

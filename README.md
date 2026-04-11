@@ -1,26 +1,19 @@
-# Hey, I'm Matias 👋
+# Hey, I'm [Matias](https://linkedin.com/in/matiasmargaritini) 👋
 
 I'm a Full Stack .NET developer based in Córdoba, Argentina.
 
-I build real-world applications that solve actual business problems.
+I build systems that replace manual work and actually get used in the real world.
 
-If something can be automated or improved, I’ll probably build it.
+Lately, I’ve been working on a retail inventory system (and a few side things here and there).
 
----
+My main stack is .NET, C#, ASP.NET Core, Blazor, and SQL Server. I take notes in Notion and I love it.
 
-**Current focus**
-- .NET backend systems & APIs  
-- Clean Architecture  
-- AI-assisted development workflows  
+If something feels inefficient, I usually can’t ignore it… I end up trying to automate it.
 
----
+Email: matiasmargaritini@gmail.com  
+LinkedIn: https://linkedin.com/in/matiasmargaritini  
+Portfolio: https://abstr4.github.io  
 
-**Stack**
-.NET · C# · ASP.NET Core · Blazor · SQL Server · Docker
-
----
-
-**Reach me**
-- Email: matiasmargaritini@gmail.com  
-- LinkedIn: https://linkedin.com/in/matiasmargaritini  
-- Portfolio: https://abstr4.github.io  
+- Long live to f.lux
+- Discord is the top 1 communication platform so... I've built a few bots there too
+- My profile picture is Coco, my dog. 

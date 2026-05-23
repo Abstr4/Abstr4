@@ -6,7 +6,7 @@ I build systems that replace manual work.
 
 Lately, I’ve been working on a retail inventory system (and a few side things here and there).
 
-My main stack is .NET, C#, ASP.NET Core, Blazor, and SQL Server. I take notes in Notion and I love it.
+My main stack is .NET, C#, ASP.NET Core, Blazor, and SQL Server.
 
 If something feels inefficient, I usually can’t ignore it… I end up trying to automate it.
 

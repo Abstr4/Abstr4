@@ -2,7 +2,7 @@
 
 I'm a Full Stack .NET developer based in Córdoba, Argentina.
 
-I build systems that replace manual work and actually get used in the real world.
+I build systems that replace manual work.
 
 Lately, I’ve been working on a retail inventory system (and a few side things here and there).
 
